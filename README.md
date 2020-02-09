@@ -1,7 +1,7 @@
 # Fallout4-Voice-Generator
 This Project Aims to use deep learning and generative modelling to allow FO4 modders to create new NPC voices through interpolation.
 
-#High Level Task List
+# High Level Task List
 - [x] Extract fallout voices from game files
 - [ ] Create Data Processing pipeline to transform voices 
 - [ ] Learn Pytorch for model creation
